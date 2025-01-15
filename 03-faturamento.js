@@ -1,4 +1,4 @@
-const faturamento = require('./data/faturamento.json');
+const faturamento = require('./faturamento.json');
 
 function calcularFaturamento(faturamento) {
     let menor = Infinity;
